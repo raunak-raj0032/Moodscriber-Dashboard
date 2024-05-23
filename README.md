@@ -1,0 +1,1 @@
+These are the project files for a competition by MoodScriber. The file named "Main" is the dataset used, the Analytics ppt contains ss and instances of the dashboard and the Moodscriber file is the .pbix file itself.
